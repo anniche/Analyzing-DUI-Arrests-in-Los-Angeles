@@ -3,7 +3,7 @@
 
 **Introduction and Background Information**
 
-The goal of this project is to analyze and compare DUI arrests for different neighborhood councils. 
+The goal of this project is to analyze and compare DUI arrest trends from the last decade across different neighborhood councils. 
 
 **Python Packages**
 
